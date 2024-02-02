@@ -39,7 +39,7 @@
   "type": "module",
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.429.0",
-    "@aws-sdk/lib-dynamodb": "^3.429.0",
+    "@aws-sdk/lib-dynamodb": "^3.490.0",
     "@radixdlt/radix-dapp-toolkit": "^1.2.0",
     "@radixdlt/rola": "^1.0.0",
     "jsonwebtoken": "^9.0.2",
